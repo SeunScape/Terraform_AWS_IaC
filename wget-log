@@ -1,0 +1,11 @@
+--2024-01-25 15:02:59--  https://apt.releases.hashicorp.com/gpg
+Resolving apt.releases.hashicorp.com (apt.releases.hashicorp.com)... 108.157.78.78, 108.157.78.29, 108.157.78.84, ...
+Connecting to apt.releases.hashicorp.com (apt.releases.hashicorp.com)|108.157.78.78|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 3980 (3.9K) [binary/octet-stream]
+Saving to: ‘STDOUT’
+
+-                     0%[                    ]       0  --.-KB/s               -                   100%[===================>]   3.89K  --.-KB/s    in 0s      
+
+2024-01-25 15:03:02 (774 MB/s) - written to stdout [3980/3980]
+
